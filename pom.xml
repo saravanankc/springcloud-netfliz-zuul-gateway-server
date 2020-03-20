@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kc.mylearnings.springcloud.microservices</groupId>
-	<artifactId>netfliz-zuul-gateway-server</artifactId>
+	<artifactId>netflixzuulgatewayserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>netfliz-zuul-gateway-server</name>
+	<name>netflix-zuul-gateway-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
